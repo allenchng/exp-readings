@@ -2,6 +2,8 @@
 
 This is a list of resources that I found useful when studying for experimentation based data science roles. It is by no means an exhaustive list, please feel free to message me or submit a PR if you think the organization could be improved or I've omitted any outstanding examples.
 
+Inspired by [Dustin Tran's ML Video repo](https://github.com/dustinvtran/ml-videos) and PhD qual's lists.
+
 ## General Overview
 
 -   [Kohavi et al., 2020 - Online randomized controlled experiments at scale: lessons and extensions to medicine](https://link.springer.com/article/10.1186/s13063-020-4084-y)
@@ -126,5 +128,5 @@ Visualizing Practical and Statistical Significance](https://netflixtechblog.com/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjgxMDkyMl19
+eyJoaXN0b3J5IjpbNzgxNzgyMDYyLDIwNzI4MTA5MjJdfQ==
 -->
