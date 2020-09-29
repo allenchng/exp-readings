@@ -62,6 +62,8 @@ Visualizing Practical and Statistical Significance](https://netflixtechblog.com/
 
 - [Simon Jackson - The 4-step Refresher of Statistical Power](https://towardsdatascience.com/a-quick-refresher-of-statistical-power-fe8ae5e0c317)
 
+- [Etsy - How Etsy Handles Peeking in A/B Testing](https://codeascraft.com/2018/10/03/how-etsy-handles-peeking-in-a-b-testing/)
+
 ## Bayesian A/B Testing
 
 - [John Krushke - Optional stopping in data collection: p values, Bayes factors, credible intervals, precision](http://doingbayesiandataanalysis.blogspot.com/2013/11/optional-stopping-in-data-collection-p.html)
