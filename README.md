@@ -76,6 +76,8 @@ Visualizing Practical and Statistical Significance](https://netflixtechblog.com/
 
 - [David Robinson - Is Bayesian A/B Testing Immune To Peeking? Not Exactly](http://varianceexplained.org/r/bayesian-ab-testing/)
 
+- [Stitch Fix - Large Scale Experimentation](https://multithreaded.stitchfix.com/blog/2020/07/07/large-scale-experimentation/)
+
 ## Multivariate Testing
 
 - [Analytics Toolkit - Multivariate Testing – Best Practices & Tools for MVT (A/B/n) Tests](http://blog.analytics-toolkit.com/2017/multivariate-testing-practices-tools-mvt-abn-tests/)
@@ -123,6 +125,8 @@ Visualizing Practical and Statistical Significance](https://netflixtechblog.com/
 - [Spotify - Building a scalable experimentation platform at Spotify by Karina Bunyik](https://www.youtube.com/watch?v=RPyriHfNblE)
 
 - [Pinterest - AB Testing At Pinterest: Building A Culture Of Experimentation](https://www.youtube.com/watch?v=MZTHghbPjbE)
+
+- [Stitch Fix - Building our Centralized Experimental Platform](https://multithreaded.stitchfix.com/blog/2019/07/30/building-centralized-experimental-platform/)
 
 ## Software
 
