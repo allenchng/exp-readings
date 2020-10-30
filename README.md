@@ -128,7 +128,7 @@ Visualizing Practical and Statistical Significance](https://netflixtechblog.com/
 
 - [Stitch Fix - Building our Centralized Experimental Platform](https://multithreaded.stitchfix.com/blog/2019/07/30/building-centralized-experimental-platform/)
 
-- [Stitch Fix - Building our Centralized Experimental Platform](https://engineering.atspotify.com/2020/10/29/spotifys-new-experimentation-platform-part-1/)
+- [Spotify - Spotify’s New Experimentation Platform (Part 1)](https://engineering.atspotify.com/2020/10/29/spotifys-new-experimentation-platform-part-1/)
 
 ## Software
 
