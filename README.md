@@ -128,6 +128,8 @@ Visualizing Practical and Statistical Significance](https://netflixtechblog.com/
 
 - [Stitch Fix - Building our Centralized Experimental Platform](https://multithreaded.stitchfix.com/blog/2019/07/30/building-centralized-experimental-platform/)
 
+- [Stitch Fix - Building our Centralized Experimental Platform](https://engineering.atspotify.com/2020/10/29/spotifys-new-experimentation-platform-part-1/)
+
 ## Software
 
 - [Wayfair - Pylift: A Fast Python Package for Uplift Modeling](https://tech.wayfair.com/data-science/2018/10/pylift-a-fast-python-package-for-uplift-modeling/)
