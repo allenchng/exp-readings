@@ -130,6 +130,8 @@ Visualizing Practical and Statistical Significance](https://netflixtechblog.com/
 
 - [Spotify - Spotify’s New Experimentation Platform (Part 1)](https://engineering.atspotify.com/2020/10/29/spotifys-new-experimentation-platform-part-1/)
 
+- [Spotify - Spotify’s New Experimentation Platform (Part 2)](https://engineering.atspotify.com/2020/11/02/spotifys-new-experimentation-platform-part-2/)
+
 ## Software
 
 - [Wayfair - Pylift: A Fast Python Package for Uplift Modeling](https://tech.wayfair.com/data-science/2018/10/pylift-a-fast-python-package-for-uplift-modeling/)
