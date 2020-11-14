@@ -16,6 +16,9 @@ Inspired by [Dustin Tran's ML Video repo](https://github.com/dustinvtran/ml-vide
 
 -   [Trustworthy Online Controlled Experiments: Five Puzzling Outcomes Explained](https://exp-platform.com/Documents/puzzlingOutcomesInControlledExperiments.pdf)
 
+-   [Twitter - The what and why of product experimentation at Twitter](https://blog.twitter.com/engineering/en_us/a/2015/the-what-and-why-of-product-experimentation-at-twitter-0.html)
+
+
 ## Measuring Treatment Effects
 
 -   [Facebook - A Comparison of Approaches to Advertising Measurement: Evidence from Big Field Experiments at Facebook](https://www.kellogg.northwestern.edu/faculty/gordon_b/files/kellogg_fb_whitepaper.pdf)
@@ -37,8 +40,7 @@ Inspired by [Dustin Tran's ML Video repo](https://github.com/dustinvtran/ml-vide
 
 - [VK Tech - Practitioner’s Guide to Statistical Tests](https://medium.com/@vktech/practitioners-guide-to-statistical-tests-ed2d580ef04f)
 
--   [Netflix - Streaming Video Experimentation at Netflix:  
-Visualizing Practical and Statistical Significance](https://netflixtechblog.com/streaming-video-experimentation-at-netflix-visualizing-practical-and-statistical-significance-7117420f4e9a)
+-   [Netflix - Streaming Video Experimentation at Netflix: Visualizing Practical and Statistical Significance](https://netflixtechblog.com/streaming-video-experimentation-at-netflix-visualizing-practical-and-statistical-significance-7117420f4e9a)
 
 - [Ellery Wulczyn - AB Testing and the Importance of Independent Observations](https://ewulczyn.github.io/ab_testing_and_independence/)
 
@@ -49,6 +51,10 @@ Visualizing Practical and Statistical Significance](https://netflixtechblog.com/
 - [Cross Validated - What is difference-in-differences?](https://stats.stackexchange.com/questions/564/what-is-difference-in-differences)
 
 - [Wolfram - Quantile Regression—Theory, Implementations, and Applications](https://www.youtube.com/watch?v=GddvdXMJV9Y)
+
+- [Twitter - Detecting and avoiding bucket imbalance in A/B tests](https://blog.twitter.com/engineering/en_us/a/2015/detecting-and-avoiding-bucket-imbalance-in-ab-tests.html)
+
+- [Twitter - Power, minimal detectable effect, and bucket size estimation in A/B tests](https://blog.twitter.com/engineering/en_us/a/2016/power-minimal-detectable-effect-and-bucket-size-estimation-in-ab-tests.html)
 
 ## Power / Stopping Rules
 
@@ -131,6 +137,9 @@ Visualizing Practical and Statistical Significance](https://netflixtechblog.com/
 - [Spotify - Spotify’s New Experimentation Platform (Part 1)](https://engineering.atspotify.com/2020/10/29/spotifys-new-experimentation-platform-part-1/)
 
 - [Spotify - Spotify’s New Experimentation Platform (Part 2)](https://engineering.atspotify.com/2020/11/02/spotifys-new-experimentation-platform-part-2/)
+
+- [Twitter - Twitter experimentation: technical overview](https://blog.twitter.com/engineering/en_us/a/2015/twitter-experimentation-technical-overview.html)
+
 
 ## Software
 
