@@ -84,6 +84,8 @@ Inspired by [Dustin Tran's ML Video repo](https://github.com/dustinvtran/ml-vide
 
 - [Stitch Fix - Large Scale Experimentation](https://multithreaded.stitchfix.com/blog/2020/07/07/large-scale-experimentation/)
 
+- [Booking.com - How Booking.com increases the power of online experiments with CUPED](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d)
+
 ## Multivariate Testing
 
 - [Analytics Toolkit - Multivariate Testing – Best Practices & Tools for MVT (A/B/n) Tests](http://blog.analytics-toolkit.com/2017/multivariate-testing-practices-tools-mvt-abn-tests/)
