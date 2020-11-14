@@ -16,13 +16,13 @@ Inspired by [Dustin Tran's ML Video repo](https://github.com/dustinvtran/ml-vide
 
 -   [Trustworthy Online Controlled Experiments: Five Puzzling Outcomes Explained](https://exp-platform.com/Documents/puzzlingOutcomesInControlledExperiments.pdf)
 
--   [Twitch - A/B Testing using Google’s Staged Rollouts](https://blog.twitch.tv/en/2017/01/12/a-b-testing-using-googles-staged-rollouts-ea860727f8b2/#.tkg2qw9a4)
-
 ## Measuring Treatment Effects
 
 -   [Facebook - A Comparison of Approaches to Advertising Measurement: Evidence from Big Field Experiments at Facebook](https://www.kellogg.northwestern.edu/faculty/gordon_b/files/kellogg_fb_whitepaper.pdf)
 
 -   [Google - Inferring causal impact using Bayesian structural time-series models](https://research.google/pubs/pub41854/)
+
+-   [Twitch - A/B Testing using Google’s Staged Rollouts](https://blog.twitch.tv/en/2017/01/12/a-b-testing-using-googles-staged-rollouts-ea860727f8b2/#.tkg2qw9a4)
 
 -   [Twitch - Two-Stage Least Squares For A/B Tests](https://blog.twitch.tv/en/2017/06/30/two-stage-least-squares-for-a-b-tests-669d07f904f7/)
 
