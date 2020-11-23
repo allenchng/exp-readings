@@ -6,6 +6,8 @@ Inspired by [Dustin Tran's ML Video repo](https://github.com/dustinvtran/ml-vide
 
 ## General Overview
 
+- [Kohavi et al., 2014 - Seven Rules of Thumb for Web Site Experimenters](https://www.exp-platform.com/Documents/2014%20experimentersRulesOfThumb.pdf)
+
 -   [Kohavi et al., 2020 - Online randomized controlled experiments at scale: lessons and extensions to medicine](https://link.springer.com/article/10.1186/s13063-020-4084-y)
 
 - [Kohavi & Longbotham, 2017 - Online Controlled Experiments and A/B Testing](https://www.researchgate.net/profile/Ron_Kohavi/publication/316116834_Online_Controlled_Experiments_and_AB_Testing/links/59b7583b458515c212b3cd46/Online-Controlled-Experiments-and-A-B-Testing.pdf)
@@ -55,6 +57,10 @@ Inspired by [Dustin Tran's ML Video repo](https://github.com/dustinvtran/ml-vide
 - [Twitter - Detecting and avoiding bucket imbalance in A/B tests](https://blog.twitter.com/engineering/en_us/a/2015/detecting-and-avoiding-bucket-imbalance-in-ab-tests.html)
 
 - [Twitter - Power, minimal detectable effect, and bucket size estimation in A/B tests](https://blog.twitter.com/engineering/en_us/a/2016/power-minimal-detectable-effect-and-bucket-size-estimation-in-ab-tests.html)
+
+- [Twitter - Implications of use of multiple controls in an A/B test](https://blog.twitter.com/engineering/en_us/a/2016/implications-of-use-of-multiple-controls-in-an-ab-test.html)
+
+
 
 ## Power / Stopping Rules
 
