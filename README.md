@@ -20,6 +20,7 @@ Inspired by [Dustin Tran's ML Video repo](https://github.com/dustinvtran/ml-vide
 
 -   [Twitter - The what and why of product experimentation at Twitter](https://blog.twitter.com/engineering/en_us/a/2015/the-what-and-why-of-product-experimentation-at-twitter-0.html)
 
+-   [AirBnB - 4 Principles for Making Experimentation Count](https://medium.com/airbnb-engineering/4-principles-for-making-experimentation-count-7a5f1a5268a)
 
 ## Measuring Treatment Effects
 
