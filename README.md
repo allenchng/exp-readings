@@ -147,6 +147,7 @@ Inspired by [Dustin Tran's ML Video repo](https://github.com/dustinvtran/ml-vide
 
 - [Twitter - Twitter experimentation: technical overview](https://blog.twitter.com/engineering/en_us/a/2015/twitter-experimentation-technical-overview.html)
 
+- [DoorDash - Meet Dash-AB — The Statistics Engine of Experimentation at DoorDash](https://doordash.engineering/2022/05/24/meet-dash-ab-the-statistics-engine-of-experimentation-at-doordash/)
 
 ## Software
 
